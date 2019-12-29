@@ -1,2 +1,9 @@
-# hello-io
-Get started Io language
+# Hello, Io language
+
+## Get started
+
+```
+$ brew install io
+```
+
+[Source](https://github.com/IoLanguage/io)
